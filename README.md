@@ -19,6 +19,14 @@ It provides a lightweight way to communicate through Discord on systems where ru
 
 ---
 
+## Video
+
+https://github.com/user-attachments/assets/f25a1a8c-1398-4308-a550-a1e75fac2868
+
+This video was uploaded regarding security reasons.
+
+---
+
 ## ⚠️ Limitations
 
 Because AeroCord operates through its Discord bot, it has some important limitations.
