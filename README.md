@@ -1,6 +1,6 @@
 # AeroCord
 
-**AeroCord** is a Discord client designed for **Windows 7**.
+**AeroCord** is a Discord client designed for **Windows 7** and older, dating back to **Windows XP**.
 
 It provides a lightweight way to communicate through Discord on systems where running the modern official Discord client may not be practical.
 
