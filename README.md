@@ -8,6 +8,17 @@ It provides a lightweight way to communicate through Discord on systems where ru
 
 ---
 
+## 🚀 Join the AeroCord Community!
+
+AeroCord is a lightweight Discord client project with a classic Windows-inspired experience.
+
+💬 Talk about AeroCord
+🛠️ Get help & report issues
+🧪 Test new releases
+👥 Hang out with the community
+
+Join here: https://discord.gg/KDhXckcxpd
+
 ## ✨ Features
 
 * 💬 Send and receive Discord messages
