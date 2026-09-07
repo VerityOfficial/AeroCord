@@ -50,6 +50,13 @@ The AeroCord bot must already be installed in a server before AeroCord can inter
 
 A server owner or another member with permission to add bots must authorize the AeroCord bot.
 
+Some servers add limitations on the bot. Make sure these 5 settings are enabled for both the bot and the "Communicator" role:
+- View Channel
+- Read Message History
+- Send Messages
+- Send Messages in Threads
+- Create Public Threads
+
 ### ➕ Add AeroCord to your server
 
 **Installation link:**
