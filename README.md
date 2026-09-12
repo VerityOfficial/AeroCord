@@ -56,6 +56,7 @@ Some servers add limitations on the bot. Make sure these 5 settings are enabled 
 - Send Messages
 - Send Messages in Threads
 - Create Public Threads
+- Add Reactions
 
 ### ➕ Add AeroCord to your server
 
