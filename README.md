@@ -179,8 +179,7 @@ Modern Discord functionality may change over time, so some features may stop wor
    2.5. If you are the server owner, install the AeroCord bot.
 3. Open AeroCord.
 4. Connect to an available server/channel.
-5. **Include your Discord name in every message you send.**
-6. Follow the server's rules.
+5. Follow the server's rules.
 
 **AeroCord — Discord communication for the Windows 7 era.** 🪟✨
 
