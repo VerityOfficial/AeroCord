@@ -82,42 +82,7 @@ Depending on the current AeroCord version, some Discord functionality may not be
 AeroCord should therefore be considered an **alternative client/interface**, not a complete replacement for the official Discord client.
 
 ---
-
-# 📜 AeroCord Rules
-
-By using AeroCord, you agree to follow these rules.
-
-## 1. Identify yourself in messages
-
-**Every message sent through AeroCord must state the sender's Discord name.**
-
-For example:
-
-```text
-[Username] Hello everyone!
-```
-
-or:
-
-```text
-Username: Hello everyone!
-```
-
-This requirement exists because messages sent through AeroCord may be transmitted through the AeroCord bot rather than directly through the normal Discord client.
-
-Do **not** impersonate another Discord user.
-
----
-
-## 2. No impersonation
-
-Do not intentionally make AeroCord messages appear to have been sent by another person.
-
-You may only identify yourself using your own Discord account name.
-
----
-
-## 3. Follow server rules
+## 1. Follow server rules
 
 AeroCord users must follow the rules of every Discord server they access.
 
@@ -125,7 +90,7 @@ AeroCord does not give users permission to bypass server moderation, restriction
 
 ---
 
-## 4. Do not abuse AeroCord
+## 2. Do not abuse AeroCord
 
 Do not use AeroCord to:
 
@@ -139,7 +104,7 @@ Do not use AeroCord to:
 
 ---
 
-## 5. Respect moderators
+## 3. Respect moderators
 
 Server moderators and administrators have authority over their servers.
 
@@ -147,7 +112,7 @@ If a server owner removes the AeroCord bot, AeroCord will no longer be able to a
 
 ---
 
-## 6. Respect Discord's rules
+## 4. Respect Discord's rules
 
 AeroCord users must also follow Discord's applicable rules and policies.
 
